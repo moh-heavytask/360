@@ -165,7 +165,7 @@ li.slick-active {
 
 
 .hooray_bg{
-    background: #694086;
+    background: #ac2973;
 }
 
 .hooray_text h4{
@@ -176,6 +176,30 @@ li.slick-active {
 .skill-part .section-head-2{
     margin-bottom: 0;
 }
+
+.second-nav-toggler{
+    display: none;
+}
+
+
+
+
+
+
+
+
+/*Responsive CSS*/
+@media only screen and (max-width: 600px) {
+    .second-nav-toggler{
+        display: block !important;
+    }
+}
+
+
+
+
+
+
 
 
 
