@@ -1,0 +1,126 @@
+.nav-bg-white{
+    background: #4c483f;
+}
+
+.nav-bg-white #nav-list > ul > li > a {
+    color: #fff;
+}
+
+.content-one {
+    color: #fff;
+}
+
+.content-one p {
+    color: #fff !important;
+    font-size: 18px;
+}
+
+.content-one i {
+    color: #fff !important;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+
+.new_video{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.section-head-3-1 {
+    margin-bottom: 0px;
+}
+
+
+.blog-two img {
+    width: 200px;
+    margin-bottom: 75px;
+}
+
+button.slick-next.slick-arrow {
+    position: absolute;
+    top: 50%;
+    right: -50px;
+    background: #ffad18;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 5px;
+    display: none !important;
+}
+
+button.slick-prev.slick-arrow {
+    position: absolute;
+    top: 50%;
+    left: -70px;
+    background: #ffad18;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 5px;
+    display: none !important;
+}
+
+.practise-item{
+    height: 330px;
+}
+
+.btn-new {
+    font-size: 14px;
+    background: #002e5b;
+    color: #fff;
+    padding: 15px 22px;
+    border: 1px solid #fff;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    font-weight: 700;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 35px;
+}
+
+.btn-new:hover{
+    color: #fff;
+}
+
+ul.slick-dots {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+
+ul.slick-dots li {
+    display: inline-block;
+    margin-left: 10px;
+    background: rgb(255, 173, 24);
+    border-radius: 50%;
+    padding: 4px 4px;
+    font-size: 0;
+}
+
+li.slick-active {
+    background: #0056b3 !important;
+}
+
+.team-2-item .team-2-img {
+    position: relative;
+    box-shadow: 0px 3px 9px 0px rgba(117, 117, 117, 0.35);
+    overflow: hidden;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.experience-part-new{
+    background: url(../images/bg/about-bg.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section-ppppp{
+    padding: 50px 0;
+}
